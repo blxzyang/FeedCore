@@ -1,4 +1,4 @@
-package com.qianjiangyue.feedcore.Service.fetch;
+package com.qianjiangyue.feedcore.service.task;
 
 import com.qianjiangyue.feedcore.entity.RssArticle;
 import com.qianjiangyue.feedcore.entity.RssSource;
