@@ -74,6 +74,7 @@ public class ZhipuAiService {
                 .database(info.getDatabase())
                 .user(info.getUsername())
                 .password(info.getPassword())
+                .table("rss_articles")
                 .dimension(1024)
                 .build();
 
